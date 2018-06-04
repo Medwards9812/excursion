@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+  <head>
+    <link rel="stylesheet" href="resources/css/style.css">
+  </head>
+  <body>
+    <h1>Discover hidden places in the world around you</h1>
+<p><a class="cta" href="#">Download Excursion (Coming soon!)</a></p>
+      <video autoplay muted loop>
+            <source src="./Resources/Images  /excursion.mp4" type="video/mp4">
+      </video>
+
+      <!--Second Section--->
+      <h2>Your personal travel guide</h2>
+      <p>Excursion remembers places you like, and recommends new points of interest around you.</p>
+
+          <p>Excursion remembers places you like, and recommends new points of interests of you </p>
+    <!---Camp--->
+       <p> <img src="./Resources/Images  /camp.jpg"/> </p>
+    <!--Phone Photo-->
+      <img src:"./Resources/Images  /phone.png"/>
+      <h2>Coming Soon for iPhone and Android</h2>
+      <p><a class="cta" href="#">Download Excursion (Coming soon!)</a></p>
+
+      <div class="footer">
+          <p>&copy; Excursion</p>
+        </div>
+        <footer> &copy; Excursions </footer>
